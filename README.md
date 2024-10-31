@@ -1,16 +1,27 @@
-# Hi there 👋
+## Hi there 👋
 
 
 My name is ✨ Kuriko ✨
 
+I am an entrepreneur, builder, and product owner. 
 
-I am a founder of version, startup that helps businesses improve custmer lifetime value leveraging hyper-personalized messaging for each individual user.
+👩‍💻 My journey:
+  - Full-stack developer (since 2020)
+  - Founded and exited my first startup in 2022-2024
+  - Experience in full-stack development and buidling AI applications with multiple startups incl. my own
 
-- 🔭 I am currently working on building <a href="https://beta.versi0n.io/">beta</a>.
 
-- 👯 I am looking for beta development,open-source projects (coming soon), and team members for hackathons.
+🍓 Currently:
+  - Building <a href="https://beta.versi0n.io/">beta</a> for my second startup, version + running pilot projects
+  - version helps businesses boost customer lifetime value using hyper-personalized messaging powered by AI
 
-- 💬 Visit <a href="https://kuriko.vercel.app">my website</a> and <a href="https://www.linkedin.com/in/k-i-i">LinkedIn</a> for more.
-  
-- 🌱 Fun fact: I've explored 30 countries across the globe. ✨
+
+🌱 Fun fact:
+  -  I've explored 30 countries across the globe.
+
+
+💬 More about me:
+  - <a href="https://kuriko.vercel.app">Portfolio</a>
+  - <a href="https://www.linkedin.com/in/k-i-i">LinkedIn</a>
+    
 
