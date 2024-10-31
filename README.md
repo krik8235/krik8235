@@ -2,12 +2,11 @@
 My name is ✨ Kuriko ✨
 I am a founder of version, startup that helps businesses improve custmer lifetime value leveraging hyper-personalized messaging for each individual user.
 
+- 🔭 I am currently working on building <a href="https://beta.versi0n.io/">beta</a>.
 
-- 🔭 Working: Check out <a href="https://beta.versi0n.io/">beta</a>.
+- 👯 I am looking for beta development,open-source projects (coming soon), and team members for hackathons.
 
-- 👯 Collaborating: Looking for partners for hackathons, MVP development, and open-source projects (coming soon)
-
-- 💬 Connect with me: visit <a href="https://kuriko.vercel.app">my website</a>.
+- 💬 Visit <a href="https://kuriko.vercel.app">my website</a> for more.
   
 - 🌱 Fun fact: I've explored 30 countries across the globe. ✨
 
