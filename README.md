@@ -7,20 +7,17 @@ I am an entrepreneur, builder, and product owner.
 
 😼 My journey:
 
-  - AI engineer & full-stack developer since 2020; contributed projects such as:
-    -  <a href="https://kuriko.vercel.app/my-startups/gaming-platform-mgames">White-labeled game tournatment system</a>
-    -  <a href="https://kuriko.vercel.app/my-startups/saas-gamification-quest-rewards">HR gamification app</a>
-    -  <a href="https://kuriko.vercel.app/my-startups/e-commerce">E-commerce site</a>
-    
-  - Exited <a href="https://kuriko.vercel.app/my-startups/ed-tech-bcio">my first startup</a> in 2024
+  - AI engineer & full-stack developer since 2020
+  - Contributed to building <a href="https://kuriko.vercel.app/my-startups/gaming-platform-mgames">a game tournament APK</a>, <a href="https://kuriko.vercel.app/my-startups/e-commerce">a food hailing app</a>, etc
+  - Founded & exited <a href="https://kuriko.vercel.app/my-startups/ed-tech-bcio">my previous edutech startup</a> in 2024
 
 🍓 Currently:
   - Building <a href="https://beta.versi0n.io/">beta</a> for my second startup, version + running pilot projects
   - version helps businesses boost customer lifetime value using hyper-personalized messaging powered by AI
 
 🌱 Fun fact:
-  -  I've explored 30 countries across the globe.
-  -  Cat person
+  -  Explored 30 countries across the globe
+  -  Enjoy joining hackathons
 
 💬 More about me:
   - <a href="https://kuriko.vercel.app">Portfolio</a>
