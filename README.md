@@ -9,7 +9,7 @@ I am an entrepreneur, builder, and product owner.
 
   - AI engineer & full-stack developer since 2020
   - Contributed to building <a href="https://kuriko.vercel.app/my-startups/gaming-platform-mgames">a game tournament APK</a>, <a href="https://kuriko.vercel.app/my-startups/e-commerce">a food hailing app</a>, etc
-  - Founded & exited <a href="https://kuriko.vercel.app/my-startups/ed-tech-bcio">my previous edutech startup</a> in 2024
+  - Founded & exited <a href="https://kuriko.vercel.app/my-startups/edutech-bcio">my previous edutech startup</a> in 2024
 
 🍓 Currently:
   - Building <a href="https://beta.versi0n.io/">beta</a> for my second startup, version + running pilot projects
