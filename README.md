@@ -20,7 +20,7 @@ I am an entrepreneur, builder, and product owner.
 💬 More about me:
   - <a href="https://kuriko.vercel.app">Portfolio</a>
   - <a href="https://www.linkedin.com/in/k-i-i">LinkedIn</a>
-  - <a href="https://medium.com/@kuriko-i/subscribe">Subscribe my Medium channel</a>
+  - <a href="https://medium.com/@kuriko-iwai">My Medium channel</a> (mainly on startup & coding projects)
 
 👩‍💻👩‍💻👩‍💻
 
