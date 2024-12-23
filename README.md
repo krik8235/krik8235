@@ -13,7 +13,7 @@ I am an entrepreneur, builder, and product owner.
 
 🍓 Currently:
   - Building <a href="https://pypi.org/project/versionhq/">LLM orchestration frameworks</a> for multi-agent systems specialized in outbound workflows.
-  - Visit website from <a href="https://versi0n.io/">here</a>
+  - Visit <a href="https://versi0n.io/">website</a> / <a href="https://github.com/versionHQ/">Github repo</a>
 
 🌱 Fun fact:
   -  Explored 30 countries across the globe
@@ -30,6 +30,5 @@ I am an entrepreneur, builder, and product owner.
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
