@@ -13,7 +13,7 @@ I am an entrepreneur, builder, and product owner.
 
 🍓 Currently:
   - Building <a href="https://pypi.org/project/versionhq/">LLM orchestration frameworks</a> for multi-agent systems specialized in outbound workflows.
-  - Visit <a href="https://versi0n.io/">website</a> / <a href="https://github.com/versionHQ/">Github repo</a>
+  - Visit <a href="https://versi0n.io/">website</a> / <a href="https://github.com/versionHQ/">Github repo</a> / <a href="https://kuriko.vercel.app/my-startups/versionhq">quick overview</a>
 
 🌱 Fun fact:
   -  Explored 30 countries across the globe
