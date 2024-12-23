@@ -12,7 +12,8 @@ I am an entrepreneur, builder, and product owner.
   - Founded & exited <a href="https://kuriko.vercel.app/my-startups/edtech-bcio">my edutech startup</a> in 2024
 
 🍓 Currently:
-  - Building <a href="https://beta.versi0n.io/">beta</a> for my second startup, version and running pilot projects
+  - Building <a href="https://pypi.org/project/versionhq/">LLM orchestration frameworks</a> for multi-agent systems specialized in outbound workflows.
+  - Visit website from <a href="https://versi0n.io/">here</a>
 
 🌱 Fun fact:
   -  Explored 30 countries across the globe
@@ -20,7 +21,7 @@ I am an entrepreneur, builder, and product owner.
 💬 More about me:
   - <a href="https://kuriko.vercel.app">Portfolio</a>
   - <a href="https://www.linkedin.com/in/k-i-i">LinkedIn</a>
-  - <a href="https://medium.com/@kuriko-iwai">My Medium channel</a> (mainly on startup & coding projects)
+  - <a href="https://medium.com/@kuriko-iwai">Medium</a>
 
 👩‍💻👩‍💻👩‍💻
 
