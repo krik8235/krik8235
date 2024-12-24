@@ -25,5 +25,6 @@ I am an entrepreneur, builder, and product owner.
 
 👩‍💻👩‍💻👩‍💻
 
-![python ver](https://img.shields.io/badge/python-django/flask/pydantic-purple) 
-![MIT license](https://img.shields.io/badge/js-react/node-green)
+![ml](https://img.shields.io/badge/ml-tensorflow-orange) 
+![python](https://img.shields.io/badge/py-django/flask/pydantic-blue) 
+![js](https://img.shields.io/badge/js-react/node-green)
