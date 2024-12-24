@@ -18,17 +18,12 @@ I am an entrepreneur, builder, and product owner.
 🌱 Fun fact:
   -  Explored 30 countries across the globe
 
-💬 More about me:
+💬 Visit:
   - <a href="https://kuriko.vercel.app">Portfolio</a>
   - <a href="https://www.linkedin.com/in/k-i-i">LinkedIn</a>
   - <a href="https://medium.com/@kuriko-iwai">Medium</a>
 
 👩‍💻👩‍💻👩‍💻
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![python ver](https://img.shields.io/badge/python-django/flask/pydantic-purple) 
+![MIT license](https://img.shields.io/badge/js-react/node-green)
