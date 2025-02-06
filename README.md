@@ -12,8 +12,8 @@ I am an entrepreneur, builder, and product owner.
   - Founded & exited <a href="https://kuriko.vercel.app/my-startups/edtech-bcio">my edutech startup</a> in 2024
 
 🍓 Currently:
-  - Building <a href="https://pypi.org/project/versionhq/">LLM orchestration frameworks</a> for multi-agent systems specialized in outbound workflows.
-  - Visit <a href="https://pypi.org/project/versionhq/">PyPI</a> / <a href="https://github.com/versionHQ/">Github repo</a> / <a href="https://kuriko.vercel.app/my-startups/versionhq">quick overview</a> / <a href="https://versi0n.io/">website</a> 
+  - Building <a href="https://pypi.org/project/versionhq/">agentic orchestration frameworks</a> for multi-agent systems that handle task automation without human interaction.
+  - Visit <a href="https://pypi.org/project/versionhq/">PyPI</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github repo</a> / <a href="https://docs.versi0n.io">docs</a> / <a href="https://versi0n.io/">case website</a>.
 
 🌱 Fun fact:
   -  Explored 30 countries across the globe
