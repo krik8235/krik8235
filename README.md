@@ -17,6 +17,7 @@ I am an entrepreneur, builder, and product owner.
 
 🌱 Fun fact:
   -  Explored 30 countries across the globe
+  -  Making a peach 🍑
 
 💬 Visit:
   - <a href="https://kuriko.vercel.app">Portfolio</a>
