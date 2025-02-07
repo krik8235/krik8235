@@ -13,7 +13,7 @@ I am an entrepreneur, builder, and product owner.
 
 🍓 Currently:
   - Building <a href="https://pypi.org/project/versionhq/">agentic orchestration frameworks</a> for multi-agent systems that handle task automation without human interaction.
-  - Visit <a href="https://pypi.org/project/versionhq/">PyPI</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github repo</a> / <a href="https://docs.versi0n.io">docs</a> / <a href="https://versi0n.io/">playground</a>.
+  - Visit <a href="https://pypi.org/project/versionhq/">PyPI</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github repo</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
 
 🌱 Fun fact:
   -  Explored 30 countries across the globe
