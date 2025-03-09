@@ -11,18 +11,9 @@ I am an entrepreneur, builder, and product owner.
   - Contributed to building web apps and systems such as <a href="https://kuriko.vercel.app/my-startups/gaming-platform-mgames">a game tournament APK</a> and <a href="https://kuriko.vercel.app/my-startups/edtech-bcio">a food hailing app</a>
   - Founded & exited <a href="https://kuriko.vercel.app/my-startups/edtech-bcio">my edutech startup</a> in 2024
 
-🍓 Currently:
-  - Building <a href="https://pypi.org/project/versionhq/">agentic orchestration frameworks</a> for multi-agent systems that handle task automation without human interaction.
-  - Visit <a href="https://pypi.org/project/versionhq/">PyPI</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github repository</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
-
-🌱 Fun fact:
-  -  Explored 30 countries across the globe
-  -  Making a peach 🍑
-
-💬 Visit:
-  - <a href="https://kuriko.vercel.app">Portfolio</a>
-  - <a href="https://www.linkedin.com/in/k-i-i">LinkedIn</a>
-  - <a href="https://medium.com/@kuriko-iwai">Medium</a>
+🍓 Visit:
+  - Building <a href="https://pypi.org/project/versionhq/">agentic orchestration frameworks</a> for multi-agent systems.
+  - <a href="https://pypi.org/project/versionhq/">Python SDK</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github repository</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
 
 👩‍💻👩‍💻👩‍💻
 
