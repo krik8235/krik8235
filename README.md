@@ -14,7 +14,6 @@ I am an entrepreneur, builder, and product owner.
   - Building a Python framework for autonomous agent networks.
   - Check <a href="https://pypi.org/project/versionhq/">Python SDK</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
 
-👩‍💻👩‍💻👩‍💻
 
 ![ml](https://img.shields.io/badge/ml-tensorflow-orange) 
 ![python](https://img.shields.io/badge/py-django/flask/pydantic-blue) 
