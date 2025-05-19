@@ -5,7 +5,7 @@ My name is ✨ Kuriko ✨
 
 
 😼 My journey so far:
-  - Business owner -> full-stack developer -> entrepreneur -> ML engineer
+  - Finance & Consulting -> Product -> Full-stack developer -> Entrepreneur -> ML engineer
   - Built web apps like a game tournament APK, a food hailing app and more.
   - Founded & exited my edutech startup in 2024.
 
