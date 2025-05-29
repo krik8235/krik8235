@@ -13,6 +13,6 @@ My name is ✨ Kuriko ✨
   - Building a Python framework for autonomous agent networks: <a href="https://pypi.org/project/versionhq/">Python SDK</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
 
 
-![ml](https://img.shields.io/badge/ml-llm/dl/agentic/aws-orange) 
+![ml](https://img.shields.io/badge/ml-keras/tensorflow/aws-orange) 
 ![python](https://img.shields.io/badge/py-django/flask/pydantic-blue) 
 ![js](https://img.shields.io/badge/js-react/node-green)
