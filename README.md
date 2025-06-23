@@ -7,7 +7,7 @@ I'm an ML engineer with P&L ownership experience to build, deploy, and scale con
 
 Check:
 
-- **Publication** on [Medium](https://medium.com/@kuriko-iwai), [TDS](https://towardsdatascience.com/author/kuriko-iwai/), and [freeCodeCamp](https://www.freecodecamp.org/news/author/kuriko/)
+- **Publication on [Medium](https://medium.com/@kuriko-iwai), [TDS](https://towardsdatascience.com/author/kuriko-iwai/), and [freeCodeCamp](https://www.freecodecamp.org/news/author/kuriko/)**
 
 - **[Portfolio](https://kuriko.vercel.app/)**
   
