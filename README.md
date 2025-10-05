@@ -7,7 +7,7 @@ I'm an ML engineer with experience in owning P&L of consumer apps and enterprise
 
 Check my:
 
-- **Publication on [Medium](https://medium.com/@kuriko-iwai), [TDS](https://towardsdatascience.com/author/kuriko-iwai/), and [freeCodeCamp](https://www.freecodecamp.org/news/author/kuriko/)**
+- **Publication on [Medium](https://medium.com/@kuriko-iwai) and [freeCodeCamp](https://www.freecodecamp.org/news/author/kuriko/)**
 
 - **[Portfolio](https://kuriko.vercel.app/)**
   
