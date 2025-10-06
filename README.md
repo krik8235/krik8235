@@ -5,11 +5,11 @@ My name is ✨ Kuriko ✨
 
 I'm an ML engineer with experience in owning P&L of consumer apps and enterprise SaaS.
 
-Check my:
+Visit my:
 
 - **Publication on [Medium](https://medium.com/@kuriko-iwai) and [freeCodeCamp](https://www.freecodecamp.org/news/author/kuriko/)**
 
-- **[Portfolio](https://kuriko.vercel.app/)**
+- **[Portfolio](https://kuriko-iwai.vercel.app/)**
   
 - **Projects** - autonomous agent networks: <a href="https://pypi.org/project/versionhq/">Python SDK</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
 
