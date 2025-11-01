@@ -9,8 +9,8 @@ Visit my:
 
 - **Publication on [Medium](https://medium.com/@kuriko-iwai) and [freeCodeCamp](https://www.freecodecamp.org/news/author/kuriko/)**
 
-- **[Portfolio](https://kuriko-iwai.vercel.app/)**
-  
+- **[Portfolio](https://kuriko-iwai.com/)**
+
 - **Projects** - autonomous agent networks: <a href="https://pypi.org/project/versionhq/">Python SDK</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
 
 
