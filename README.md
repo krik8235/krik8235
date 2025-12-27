@@ -5,9 +5,9 @@ My name is ✨ Kuriko ✨
 
 I'm an ML engineer with experience in owning P&L of consumer apps and enterprise SaaS.
 
-Visit my:
+Visit:
 
-- **[Portfolio](https://kuriko-iwai.com/)**
+- **[ML Labs](https://kuriko-iwai.com/)**: Publishes ML researches, blogs, and projects.
  
 - **[Medium](https://medium.com/@kuriko-iwai)**
 
