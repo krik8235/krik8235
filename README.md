@@ -7,7 +7,7 @@ I'm an ML engineer with experience in owning P&L of consumer apps and enterprise
 
 Visit:
 
-- **[ML Labs](https://kuriko-iwai.com/)**: Publishes ML researches, blogs, and projects.
+- **[Kernel Labs](https://kuriko-iwai.com/)**: Publishes ML researches, blogs, and projects.
  
 - **[Medium](https://medium.com/@kuriko-iwai)**
 
