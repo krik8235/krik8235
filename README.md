@@ -7,14 +7,20 @@ I'm an ML engineer with experience in owning P&L of consumer apps and enterprise
 
 Visit:
 
-- **[Kernel Labs](https://kuriko-iwai.com/)**: Publishes ML researches, blogs, and projects.
- 
-- **[Medium](https://medium.com/@kuriko-iwai)**
+- **[Kernel Labs](https://kuriko-iwai.com/)** for more ML contents (theory and MLOps).
+
+
+- **AI Engineering Masterclass**
+  
+  - Learn by building. Build 8 AI applications and master the tech stacks behind LLMs
+  - <a href='https://kuriko-iwai.com/courses/llm-backbone'>Start a first module</a>: Building a RAG-Based GPT from Scratch.
+   
 
 - **Projects**
 
-  - Framework for autonomous agent networks: <a href="https://pypi.org/project/versionhq/">Python SDK</a> / <a href="https://github.com/versionHQ/multi-agent-system/">Github</a> / <a href="https://docs.versi0n.io">Docs</a> / <a href="https://versi0n.io/">Playground</a>.
-  - ML sales prediction system on AWS Lambda: <a href="https://github.com/krik8235/ml-sales-prediction">Github</a> / <a href="https://kuriko-iwai.com/online-commerce-intelligence-hub">Playground</a>
+  - <a href="https://kuriko-iwai.com/labs/multi-agent-system-framework">Autonomous agent networks</a> (<a href="https://pypi.org/project/versionhq/">Python SDK</a> | <a href="https://docs.versi0n.io">Docs</a>)
+  - <a href="https://kuriko-iwai.com/labs/bayesian-demand-modeling-and-mlops">Bayesian demand modeling</a>.
+  - <a href="https://kuriko-iwai.com/labs/lora-orchestration-multi-task-peft">LoRA multi-adapter orchestration</a>.
 
 
 ![ml](https://img.shields.io/badge/ml-pytorch/keras/tensorflow-orange) 
