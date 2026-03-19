@@ -7,13 +7,13 @@ I'm an ML engineer with experience in owning P&L of consumer apps and enterprise
 
 Visit:
 
-- **[Kernel Labs](https://kuriko-iwai.com/)** for more ML contents (theory and MLOps).
+- **[Kernel Labs](https://kuriko-iwai.com/)** for more ML blogs & apps.
 
 
 - **AI Engineering Masterclass**
   
   - Learn by building. Build 8 AI applications and master the tech stacks behind LLMs
-  - <a href='https://kuriko-iwai.com/courses/llm-backbone'>Start a first module</a>: Building a RAG-Based GPT from Scratch.
+  - <a href='https://kuriko-iwai.com/courses'>Start a first module</a>: Building a RAG-Based GPT from Scratch.
    
 
 - **Projects**
