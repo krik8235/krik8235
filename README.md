@@ -21,6 +21,7 @@ Visit:
   - <a href="https://kuriko-iwai.com/labs/multi-agent-system-framework">Autonomous agent networks</a> (<a href="https://pypi.org/project/versionhq/">Python SDK</a> | <a href="https://docs.versi0n.io">Docs</a>)
   - <a href="https://kuriko-iwai.com/labs/bayesian-demand-modeling-and-mlops">Bayesian demand modeling</a>.
   - <a href="https://kuriko-iwai.com/labs/lora-orchestration-multi-task-peft">LoRA multi-adapter orchestration</a>.
+  - <a href="https://kuriko-iwai.com/labs/digital-clone-edge-distillation">Multi-stage tuning pipeline</a> (edge distillation).
 
 
 ![ml](https://img.shields.io/badge/ml-pytorch/keras/tensorflow-orange) 
