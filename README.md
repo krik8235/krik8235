@@ -13,7 +13,7 @@ Visit:
 - **AI Engineering Masterclass**
   
   - Learn by building. Build 8 AI applications and master the tech stacks behind LLMs
-  - <a href='https://kuriko-iwai.com/courses'>Start a first module</a>: Building a RAG-Based GPT from Scratch.
+  - <a href='https://kuriko-iwai.com/courses/llm-backbone-custom-gpt'>Start a first module</a>: Building a RAG-Based GPT from Scratch.
    
 
 - **Projects**
