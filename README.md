@@ -7,21 +7,21 @@ I'm an ML engineer with experience in owning P&L of consumer apps and enterprise
 
 Visit:
 
-- **[Kernel Labs](https://kuriko-iwai.com/)** for more ML blogs & apps.
+- **[My website](https://kuriko-iwai.com?utm_source=github)** for more ML blogs & apps.
 
 
 - **AI Engineering Masterclass**
   
   - Learn by building. Build 8 AI applications and master the tech stacks behind LLMs
-  - <a href='https://kuriko-iwai.com/courses/llm-backbone-custom-gpt'>Start a first module</a>: Building a RAG-Based GPT from Scratch.
+  - <a href='https://kuriko-iwai.com/courses/llm-backbone-custom-gpt?utm_source=github'>Start a first module</a>: Building a RAG-Based GPT from Scratch.
    
 
 - **Projects**
 
-  - <a href="https://kuriko-iwai.com/labs/multi-agent-system-framework">Autonomous agent networks</a> (<a href="https://pypi.org/project/versionhq/">Python SDK</a> | <a href="https://docs.versi0n.io">Docs</a>)
-  - <a href="https://kuriko-iwai.com/labs/bayesian-demand-modeling-and-mlops">Bayesian demand modeling</a>.
-  - <a href="https://kuriko-iwai.com/labs/lora-orchestration-multi-task-peft">LoRA multi-adapter orchestration</a>.
-  - <a href="https://kuriko-iwai.com/labs/digital-clone-edge-distillation">Multi-stage tuning pipeline</a> (edge distillation).
+  - <a href="https://kuriko-iwai.com/labs/multi-agent-system-framework?utm_source=github">Autonomous agent networks</a> (<a href="https://pypi.org/project/versionhq/">Python SDK</a> | <a href="https://docs.versi0n.io">Docs</a>)
+  - <a href="https://kuriko-iwai.com/labs/bayesian-demand-modeling-and-mlops?utm_source=github">Bayesian demand modeling</a>.
+  - <a href="https://kuriko-iwai.com/labs/lora-orchestration-multi-task-peft?utm_source=github">LoRA multi-adapter orchestration</a>.
+  - <a href="https://kuriko-iwai.com/labs/digital-clone-edge-distillation?utm_source=github">Multi-stage tuning pipeline</a> (edge distillation).
 
 
 ![ml](https://img.shields.io/badge/ml-pytorch/keras/tensorflow-orange) 
